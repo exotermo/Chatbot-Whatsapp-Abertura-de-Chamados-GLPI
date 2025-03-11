@@ -88,3 +88,6 @@ Agora que a imagem está pronta, você pode iniciar o bot. Siga as etapas abaixo
 1. 🔒 Adicionar cripografia nas variaveis citadas.
 2. 🍪 Gerar cookies da sessão, excluindo a necessidade de relogar toda hora.
 3. 🐳 Servidor em docker/container rodando para consumir o minimo do hardware para essa aplicação.
+
+# Previsão de suporte!
+## 6 meses, o script todo depende da biblioteca https://wwebjs.dev/, caso a meta atualize o zap, precisará refatorar o codigo.
