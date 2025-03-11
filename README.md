@@ -62,8 +62,10 @@ O bot enviará uma imagem (logo da empresa) quando o usuário digitar o comando 
     ```
     /whatsapp-glpi-chatbot
     ├── bot.js
+    ├── GLPI.js
     ├── logo.png
     ├── package.json
+    ├── .wwebjs_cache
     └── node_modules/
     ```
 
