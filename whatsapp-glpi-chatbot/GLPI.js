@@ -7,7 +7,7 @@ const USER_TOKEN = 'Exemplo: 1Apui0x7gF9hGHlgYJfItoKm0vrG6kZVzzDeKbxO';
 /*
 APP_TOKEN e USER_TOKEN: Tokens usados para autenticação com a API do GLPI, garantindo que o bot tenha permissão para interagir com o sistema.
 */
-
+//
 /*
     IMPORTANTE: As informações acima (APP_TOKEN, USER_TOKEN) são sensíveis e devem ser mantidas em segurança.
     **Nunca** as armazene diretamente no código-fonte ou em repositórios públicos. 
